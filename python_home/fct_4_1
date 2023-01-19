@@ -1,0 +1,6 @@
+from puissance import carre, cube
+a = 5
+u = carre(a)
+print("le carre vaut", u)
+v = cube(a)
+print("le cube vaut", v)

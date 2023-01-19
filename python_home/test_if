@@ -1,0 +1,8 @@
+x = 15
+if x > 10:
+    print(x, "est plus grand que 10")
+print("Fin")
+x = 3
+if x > 10:
+    print x, "est plus grand que 10"
+print "Fin"

@@ -1,0 +1,4 @@
+def oiseau(voltage=100, etat="allumé", action="danser la java"):
+    print("Ce perroquet ne pourra pas", action)
+    print("si vous le branchez sur", voltage, "volts !")
+    print("L'auteur de ceci est complètement", etat)

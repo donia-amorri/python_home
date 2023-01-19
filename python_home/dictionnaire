@@ -1,0 +1,4 @@
+nombre_de_roues = {"voiture": 4, "vélo": 2, "tricycle": 3}
+
+for i in nombre_de_roues.items():
+    print(i)
